@@ -1,0 +1,25 @@
+buatkan dalam bentuk kode yang jika dirunning berfungsi sesuai intstruksi 
+IF
+Instructions
+Inside the editor, complete the following steps:
+Create a variable $score with the value 75
+Use an if statement to print Pass when $score is 50 or more
+Add an else part that prints Fail otherwise
+The program should print Pass.
+
+=======================================================================
+SWITCH
+Instructions
+Inside the editor, complete the following steps:
+Create a variable $fruit with the value "banana"
+Use a switch on $fruit with a case for "apple" (print Red), a case for "banana" (print Yellow) and a default (print Unknown)
+End each of the code blocks with break
+The program should print Yellow.
+=======================================================================
+MATCH
+
+Inside the editor, complete the following steps:
+Create a variable $day with the value 6
+Create $text with a match expression on $day: the values 1, 2, 3, 4, 5 give "Weekday", the values 6, 0 give "Weekend", and the default gives "Invalid"
+Print $text
+=======================
